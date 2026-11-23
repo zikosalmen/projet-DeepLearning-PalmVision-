@@ -24,3 +24,8 @@ assets/
 output_figures/
 _pdf_dump.txt
 _pdf_pages/
+
+# Présentations volumineuses (.pptx)
+*.pptx
+Presentation_Dubas_Palmier (2).pptx
+
